@@ -1,0 +1,22 @@
+{
+  "clothes": [
+    {
+      "id": "001",
+      "name": "Dress 1",
+      "category": "dresses",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/dress1.png"
+    },
+    {
+      "id": "002",
+      "name": "Dress 2",
+      "category": "dresses",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/dress2.png"
+    },
+    {
+      "id": "003",
+      "name": "Dress 3",
+      "category": "dresses",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/dress3.png"
+    }
+  ]
+}
