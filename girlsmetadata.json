@@ -1,0 +1,149 @@
+{
+  "category": "girls",
+  "version": "1.0",
+  "base_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/",
+  "subcategories": [
+    { "id": "dress", "label": "Dresses", "total": 13 },
+    { "id": "Top", "label": "Tops", "total": 10 }
+  ],
+  "items": [
+    {
+      "id": "g_dress_001",
+      "name": "Dress 1",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress1.webp"
+    },
+    {
+      "id": "g_dress_002",
+      "name": "Dress 2",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress2.webp"
+    },
+    {
+      "id": "g_dress_003",
+      "name": "Dress 3",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress3.webp"
+    },
+    {
+      "id": "g_dress_004",
+      "name": "Dress 4",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress4.webp"
+    },
+    {
+      "id": "g_dress_005",
+      "name": "Dress 5",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress5.webp"
+    },
+    {
+      "id": "g_dress_006",
+      "name": "Dress 6",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress6.webp"
+    },
+    {
+      "id": "g_dress_007",
+      "name": "Dress 7",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress7.webp"
+    },
+    {
+      "id": "g_dress_008",
+      "name": "Dress 8",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress8.webp"
+    },
+    {
+      "id": "g_dress_009",
+      "name": "Dress 9",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress9.webp"
+    },
+    {
+      "id": "g_dress_010",
+      "name": "Dress 10",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress10.webp"
+    },
+    {
+      "id": "g_dress_011",
+      "name": "Dress 11",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress11.webp"
+    },
+    {
+      "id": "g_dress_012",
+      "name": "Dress 12",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress12.webp"
+    },
+    {
+      "id": "g_dress_013",
+      "name": "Dress 13",
+      "subcategory": "dress",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/dress/dress13.webp"
+    },
+    {
+      "id": "g_top_001",
+      "name": "Top 1",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top1.webp"
+    },
+    {
+      "id": "g_top_002",
+      "name": "Top 2",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top2.webp"
+    },
+    {
+      "id": "g_top_003",
+      "name": "Top 3",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top3.webp"
+    },
+    {
+      "id": "g_top_004",
+      "name": "Top 4",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top4.webp"
+    },
+    {
+      "id": "g_top_005",
+      "name": "Top 5",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top5.webp"
+    },
+    {
+      "id": "g_top_006",
+      "name": "Top 6",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top6.webp"
+    },
+    {
+      "id": "g_top_007",
+      "name": "Top 7",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top7.webp"
+    },
+    {
+      "id": "g_top_008",
+      "name": "Top 8",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top8.webp"
+    },
+    {
+      "id": "g_top_009",
+      "name": "Top 9",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top9.webp"
+    },
+    {
+      "id": "g_top_010",
+      "name": "Top 10",
+      "subcategory": "Top",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Girls/Top/top10.webp"
+    }
+  ]
+}
