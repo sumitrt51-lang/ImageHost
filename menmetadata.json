@@ -1,0 +1,108 @@
+{
+  "category": "men",
+  "version": "1.0",
+  "base_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/",
+  "subcategories": [
+    { "id": "Shirt", "label": "Shirts", "total": 6 },
+    { "id": "Suit", "label": "Suits", "total": 5 },
+    { "id": "tshirt", "label": "T-Shirts", "total": 5 }
+  ],
+  "items": [
+    {
+      "id": "m_shirt_001",
+      "name": "Shirt 1",
+      "subcategory": "Shirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Shirt/shirt1.webp"
+    },
+    {
+      "id": "m_shirt_002",
+      "name": "Shirt 2",
+      "subcategory": "Shirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Shirt/shirt2.webp"
+    },
+    {
+      "id": "m_shirt_003",
+      "name": "Shirt 3",
+      "subcategory": "Shirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Shirt/shirt3.webp"
+    },
+    {
+      "id": "m_shirt_004",
+      "name": "Shirt 4",
+      "subcategory": "Shirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Shirt/shirt4.webp"
+    },
+    {
+      "id": "m_shirt_005",
+      "name": "Shirt 5",
+      "subcategory": "Shirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Shirt/shirt5.webp"
+    },
+    {
+      "id": "m_shirt_006",
+      "name": "Shirt 6",
+      "subcategory": "Shirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Shirt/shirt6.webp"
+    },
+    {
+      "id": "m_suit_001",
+      "name": "Suit 1",
+      "subcategory": "Suit",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Suit/suit1.webp"
+    },
+    {
+      "id": "m_suit_002",
+      "name": "Suit 2",
+      "subcategory": "Suit",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Suit/suit2.webp"
+    },
+    {
+      "id": "m_suit_003",
+      "name": "Suit 3",
+      "subcategory": "Suit",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Suit/suit3.webp"
+    },
+    {
+      "id": "m_suit_004",
+      "name": "Suit 4",
+      "subcategory": "Suit",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Suit/suit4.webp"
+    },
+    {
+      "id": "m_suit_005",
+      "name": "Suit 5",
+      "subcategory": "Suit",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/Suit/suit5.webp"
+    },
+    {
+      "id": "m_tshirt_001",
+      "name": "T-Shirt 1",
+      "subcategory": "tshirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/tshirt/tshirt1.webp"
+    },
+    {
+      "id": "m_tshirt_002",
+      "name": "T-Shirt 2",
+      "subcategory": "tshirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/tshirt/tshirt2.webp"
+    },
+    {
+      "id": "m_tshirt_003",
+      "name": "T-Shirt 3",
+      "subcategory": "tshirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/tshirt/tshirt3.webp"
+    },
+    {
+      "id": "m_tshirt_004",
+      "name": "T-Shirt 4",
+      "subcategory": "tshirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/tshirt/tshirt4.webp"
+    },
+    {
+      "id": "m_tshirt_005",
+      "name": "T-Shirt 5",
+      "subcategory": "tshirt",
+      "image_url": "https://raw.githubusercontent.com/sumitrt51-lang/ImageHost/main/Men/tshirt/tshirt5.webp"
+    }
+  ]
+}
